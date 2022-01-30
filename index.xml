@@ -1,9 +1,17 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>LoveIt</title>
-        <link>https://example.com/</link>
+        <title>New Start</title>
+        <link>https://haewon13.github.io/</link>
         <description>About LoveIt Theme</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 23 Jan 2022 18:52:06 &#43;0900</lastBuildDate>
-            <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
-        </channel>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hewon1031@naver.com (haewon)</managingEditor>
+            <webMaster>hewon1031@naver.com (haewon)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 30 Jan 2022 17:24:36 &#43;0900</lastBuildDate>
+            <atom:link href="https://haewon13.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>First</title>
+    <link>https://haewon13.github.io/first/</link>
+    <pubDate>Sun, 30 Jan 2022 17:24:36 &#43;0900</pubDate>
+    <author>Author</author>
+    <guid>https://haewon13.github.io/first/</guid>
+    <description><![CDATA[]]></description>
+</item></channel>
 </rss>
